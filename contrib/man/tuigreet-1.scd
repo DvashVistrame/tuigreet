@@ -41,6 +41,9 @@ tuigreet - A graphical console greeter for greetd
 *-t, --time*
 	Print the current date and time at the top of the screen.
 
+*--user-menu*
+	Allow selecting a user from a graphical menu.
+
 *-r, --remember*
 	Remember the username of the last successfully opened session, so the
 	username field will be pre-filled on the next run.
