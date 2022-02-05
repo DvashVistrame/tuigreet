@@ -14,6 +14,6 @@ new_command = Новая команда:
 shutdown = Выключение
 reboot = Перезагрузка
 command_exited = Команда завершилась с 
-command_failed = Команд
+command_failed = Команда не выполнена
 status_command = CMD
 status_caps = CAPS LOCK
